@@ -113,7 +113,7 @@ In this text box type in the language or file type you want to set this custom s
         "})",
         "",
         "app.listen(port, () => {",
-        "console.log(`Listening on https://localhost:${port}`)";
+        "console.log(`Listening on https://localhost:${port}`);"
         "})"
     ]
   }
@@ -136,7 +136,7 @@ In this text box type in the language or file type you want to set this custom s
         "})",
         "",
         "app.listen(port, () => {",
-        "\tconsole.log(`Listening on https://localhost:${port}`)";
+        "\tconsole.log(`Listening on https://localhost:${port}`);"
         "})"
     ]
   }
@@ -159,7 +159,7 @@ In this text box type in the language or file type you want to set this custom s
         "})",
         "",
         "app.listen(port, () => {",
-        "\tconsole.log(`Listening on https://localhost:\$\{port\}`)";
+        "\tconsole.log(`Listening on https://localhost:${port}`);"
         "})"
     ]
   }
@@ -182,7 +182,7 @@ You are completely finished, this next part is completely optional, but if you r
         "});",
         "",
         "app.listen(port, () => {",
-        "\tconsole.log(`Listening on https://localhost:\$\{port\}`);"
+        "\tconsole.log(`Listening on https://localhost:${port}`);"
         "});"
     ],
     "description":"this is a very interesting description"
