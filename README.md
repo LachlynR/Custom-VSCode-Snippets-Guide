@@ -194,5 +194,7 @@ You are completely finished, this next part is completely optional, but if you r
 ## How do you use your new snippet?
 
 In a new or existing file (make sure it is the same file type as the file type you made a snippet for) and begin typing the prefix you chose. Mine was `app`. You should be box like this come up.
+
 ![yes](https://bucket-for-random-stuff.s3-ap-southeast-2.amazonaws.com/vs-code-snippet1.png)
+
 If this does not come up for you begin typing (or type the full prefix) then press `Ctrl + Space` or `⌘ + Space` it will bring up that box with snippets. When the prefix is at the top of that little box (or you select it with arrow keys) hit `Enter` and **boom!** Watch your snippet appear.
