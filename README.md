@@ -31,7 +31,7 @@ app.listen(port, () => {
 1. In the top of VS Code, go to File > Preferences > User Snippets
 
 2. You should be prompted with something like this
-   ![yes](./vs-code-snippet.png)
+   ![yes](https://bucket-for-random-stuff.s3-ap-southeast-2.amazonaws.com/vs-code-snippet.png)
 
 In this text box type in the language or file type you want to set this custom snippet for and open the file.
 
